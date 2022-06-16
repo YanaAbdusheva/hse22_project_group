@@ -14,3 +14,6 @@
 | Петрачков Денис | Sphingomonas | https://github.com/celldominator/hse22_project | 
 | Шейченко Екатерина | Candidatus | https://github.com/edsheychenko/hse22_project |
 | Эрдели Кирилл | Mesorhizobium | https://github.com/SonOfFlowers/hse22_project  | 
+
+## Ссылка на презентацию
+
